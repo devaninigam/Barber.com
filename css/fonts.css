@@ -1,0 +1,106 @@
+/* balthazar-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Balthazar';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/balthazar-v17-latin-regular.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/balthazar-v17-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/balthazar-v17-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/balthazar-v17-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/balthazar-v17-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/balthazar-v17-latin-regular.svg#Balthazar') format('svg'); /* Legacy iOS */
+  }
+
+
+
+  /* share-tech-mono-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Share Tech Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/share-tech-mono-v15-latin-regular.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/share-tech-mono-v15-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/share-tech-mono-v15-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/share-tech-mono-v15-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/share-tech-mono-v15-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/share-tech-mono-v15-latin-regular.svg#ShareTechMono') format('svg'); /* Legacy iOS */
+  }
+
+
+  /* syne-mono-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Syne Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/syne-mono-v15-latin-regular.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/syne-mono-v15-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/syne-mono-v15-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/syne-mono-v15-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/syne-mono-v15-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/syne-mono-v15-latin-regular.svg#SyneMono') format('svg'); /* Legacy iOS */
+  }
+
+  /* marck-script-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Marck Script';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/marck-script-v17-latin-regular.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/marck-script-v17-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/marck-script-v17-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/marck-script-v17-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/marck-script-v17-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/marck-script-v17-latin-regular.svg#MarckScript') format('svg'); /* Legacy iOS */
+  }
+
+
+
+  @font-face {
+    font-family: 'Operator Mono';
+    src: url('OperatorMono-BookItalic.woff2') format('woff2'),
+        url('OperatorMono-BookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Operator Mono';
+    src: url('OperatorMono-MediumItalic.woff2') format('woff2'),
+        url('OperatorMono-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Operator Mono';
+    src: url('OperatorMono-LightItalic.woff2') format('woff2'),
+        url('OperatorMono-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Operator Mono';
+    src: url('OperatorMono-BoldItalic.woff2') format('woff2'),
+        url('OperatorMono-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Operator Mono';
+    src: url('OperatorMono-XLightItalic.woff2') format('woff2'),
+        url('OperatorMono-XLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
